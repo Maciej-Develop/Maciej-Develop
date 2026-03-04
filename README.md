@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### About me
+
+🎓 Bachelor’s degree in Computer Science from [HE2B-ESI](https://he2b.be/formations/developpeur-dapplications/) (2026)
 <!--
 **Maciej-Develop/Maciej-Develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
